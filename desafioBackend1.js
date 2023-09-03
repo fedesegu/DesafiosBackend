@@ -48,7 +48,7 @@ const producto = new ProductManager();
 
 producto.addProduct('Empanadas', 'Comida', 500, 'https://...', 'Codigo001', 250);
 producto.addProduct('Pizza', 'Comida', 3000, 'https://...', 'Codigo002', 100);
-producto.addProduct('Gaseosa', 'Bebidas', 750, 'https://...', 'Codigo001', 200);
+producto.addProduct('Gaseosa', 'Bebidas', 750, 'https://...', 'Codigo003', 200);
 
 console.log(producto.getProducts());
 console.log(producto.getProductById(2));
