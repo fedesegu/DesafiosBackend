@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "fideos",
+    "description": "comida",
+    "price": 400,
+    "thumbnail": "http://...",
+    "code": "Codigo002",
+    "stock": 200
+  },
+  {
+    "id": 2,
+    "title": "Pizza",
+    "description": "Comida",
+    "price": 3000,
+    "thumbnail": "https://...",
+    "code": "Codigo002",
+    "stock": 100
+  },
+  {
+    "id": 3,
+    "title": "Gaseosa",
+    "description": "Bebidas",
+    "price": 750,
+    "thumbnail": "https://...",
+    "code": "Codigo003",
+    "stock": 200
+  }
+]
