@@ -3,7 +3,7 @@ const fs = require('fs')
 class ProductManager {
     constructor() {
       this.products = []
-      this.path = 'Product.json'
+      this.path = 'Products.json'
     }
     async getProducts(){
       try {
